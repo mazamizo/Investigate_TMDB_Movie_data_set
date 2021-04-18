@@ -23,7 +23,20 @@ Investigate a Dataset
     - [Results](#results)
 
 ----
-
+### Questions to be Answered
+#### Q1 Which movie earns the most and least profit?
+#### Q2 Which movie had the greatest and least runtime?
+#### Q3 Which movie had the greatest and least budget?
+#### Q4 Which movie had the greatest and least REVENUE?
+#### Q5 What is the average runtime of all movies?
+#### Q6 in which year we had the most movies making profits?
+#### Q7 Average runtime of movies
+#### Q8 Average Budget
+#### Q9 Average Revenue of Movies
+#### Q10 Average Profit of Movies
+#### Q11 Which directer directed most films?
+#### Q12 most cast appeared
+#### Q13 Most genre produced¶
 
 ### Description
 
